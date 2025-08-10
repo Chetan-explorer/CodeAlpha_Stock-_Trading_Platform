@@ -1,1 +1,1 @@
-# CodeAlpha_Stock-_Trading_Platform
+# CodeAlpha_Stock_Trading_Platform
